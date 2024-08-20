@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Page Transitions</string>
+    <string name="anasayfa">Homepage</string>
+    <string name="anasayfa_aciklama">Welcome to the homepage...</string>
+    <string name="anasayfabuton_a">Go to Page A</string>
+    <string name="anasayfabuton_b">Go to Page X</string>
+    <string name="sayfa_x">Page X</string>
+    <string name="sayfax_aciklama">Welcome to Page X...</string>
+    <string name="sayfax_buton">Go to Page Y</string>
+    <string name="sayfa_a">Page A</string>
+    <string name="sayfa_a_aciklama">Welcome to Page A...</string>
+    <string name="sayfa_a_buton">Go to Page B</string>
+    <string name="sayfa_b">Page B</string>
+    <string name="sayfa_b_aciklama">Welcome to Page B...</string>
+    <string name="sayfa_b_buton">Go to Page Y</string>
+    <string name="sayfa_y">Page Y</string>
+    <string name="sayfa_y_aciklama">Welcome to Page Y...</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sayfa Gecisleri</string>
+    <string name="anasayfa">Anasayfa</string>
+    <string name="anasayfa_aciklama">Anasayfaya hoşgeldiniz...</string>
+    <string name="anasayfabuton_a">Sayfa A\'ya gidin</string>
+    <string name="anasayfabuton_b">Sayfa X\'e gidin</string>
+    <string name="sayfa_x">Sayfa X</string>
+    <string name="sayfax_aciklama">Sayfa X\'e hoşgeldiniz...</string>
+    <string name="sayfax_buton">Sayfa Y\'ye gidin</string>
+    <string name="sayfa_a">Sayfa A</string>
+    <string name="sayfa_a_aciklama">Sayfa A\'ya hoşgeldiniz...</string>
+    <string name="sayfa_a_buton">Sayfa B\'ye gidin</string>
+    <string name="sayfa_b">Sayfa B</string>
+    <string name="sayfa_b_aciklama">Sayfa B\' ye hoşgeldiniz...</string>
+    <string name="sayfa_b_buton">Sayfa Y\'ye gidin</string>
+    <string name="sayfa_y">Sayfa Y</string>
+    <string name="sayfa_y_aciklama">Sayfa Y\' ye hoşgeldiniz...</string>
+</resources>
